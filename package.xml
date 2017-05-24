@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package>
+  <name>asctec_indoor_navigation</name>
+  <version>1.0</version>
+  <description>asctec_indoor_navigation</description>
+
+
+  <maintainer email="ing.petitti@gmail.com">robouser</maintainer>
+
+
+ 
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>actionlib</build_depend>
+  <build_depend>asctec_hl_comm</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>dynamic_reconfigure</build_depend>
+  <build_depend>roslib</build_depend>
+
+  <run_depend>actionlib</run_depend>
+  <run_depend>asctec_hl_comm</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>dynamic_reconfigure</run_depend>
+  <run_depend>roslib</run_depend>
+
+
+</package>
